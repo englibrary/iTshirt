@@ -1,0 +1,14 @@
+For versions prior to 2.14.1
+
+uninstall Git from your system and install a copy of the latest version from scratch.
+Check out "guide to installing Git on Windows(https://phoenixnap.com/kb/how-to-install-git-windows)" for more details
+
+
+For versions from 2.14.2 to 2.16.1,
+use the following command in your command prompt:
+
+  git update
+
+For versions 2.16.1 on, update Git with:
+
+  git update-git-for-windows
