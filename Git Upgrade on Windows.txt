@@ -1,3 +1,4 @@
+일부 내용 수정함. (Detailed Page 추가)
 For versions prior to 2.14.1
 
 uninstall Git from your system and install a copy of the latest version from scratch.
